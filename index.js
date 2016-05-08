@@ -9,5 +9,7 @@ var
 	App = require('./src/App');
 
 ready(function () {
+	window.Mojo = {relaunch: function(e) {} };
+	window.PalmSystem && PalmSystem.stageReady && PalmSystem.stageReady();
 	new App();
 });
