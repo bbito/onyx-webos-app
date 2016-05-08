@@ -1,7 +1,7 @@
 {
-  "name": "onyx-app",
+  "name": "onyx-webos-app",
   "version": "0.0.1",
-  "description": "An Enyo-based template to build web applications using HTML, CSS and JavaScript.",
+  "description": "An Enyo-based template to build webos applications using HTML, CSS and JavaScript.",
   "main": "index.js",
   "moduleDir": "src",
   "assets": [
