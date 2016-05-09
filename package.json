@@ -6,6 +6,8 @@
   "moduleDir": "src",
   "assets": [
     "favicon.ico",
+	"appinfo.json",
+	"icon.png",
     "assets/**/*.*"
   ],
   "styles": [
