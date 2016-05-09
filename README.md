@@ -22,10 +22,10 @@ enyo templates default onyx-webos-app
 ```
 ### <a name="usage"></a>Usage
 
-For the most part this template works like the built-in app templates and you can find out more about enyo-dev and the template system at the [enyo-dev](https://github.com/enyojs/enyo-dev) repo. It differs from the built-in templates in that it also includes a "webos-meta" directory which contains an Enyo icon.png and an appinfo.json file for use with the legacy Palm/HP webOS SDK's palm-package command.
+For the most part this template works like the built-in app templates and you can find out more about enyo-dev and the template system at the [enyo-dev](https://github.com/enyojs/enyo-dev) repo. It differs from the built-in templates in that it also includes a "webos-meta" directory which contains an Enyo `icon.png` and an `appinfo.json` file for use with the legacy Palm/HP webOS SDK's `palm-package` command.
 
-* Edit the appinfo.json file to reflect your project
-* Run enyo pack
-* Copy the icon.png and your modified appinfo.json file from webos-meta into the dist directory
-* Run palm-package dist
+* Edit the `webos-meta/appinfo.json` file to reflect your project
+* Run `enyo pack`
+* Copy the `icon.png` and your modified `appinfo.json` file from `webos-meta` into the `dist` directory
+* Run `palm-package dist`
 * Enjoy!
