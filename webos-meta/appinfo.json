@@ -1,6 +1,6 @@
 {
 	"id": "com.palm.app.myapp",
-	"version": "2.7",
+	"version": "0.0.01",
 	"vendor": "LGE-SVL",
 	"type": "web",
 	"main": "index.html",
