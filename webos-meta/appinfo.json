@@ -1,0 +1,15 @@
+{
+	"id": "com.palm.app.myApp",
+	"version": "2.7",
+	"vendor": "LGE-SVL",
+	"type": "web",
+	"main": "index.html",
+	"title": "Enyo 2.7 webOS Template App",
+	"icon": "icon.png",
+	"transparent": false,
+	"visible": true,
+	"uiRevision": 2,
+	"class": {
+		"hidden": false
+	}
+}
