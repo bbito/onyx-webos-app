@@ -56,7 +56,7 @@
   "pollingInterval": 100,
   "headScripts": [],
   "tailScripts": [],
-  "promisePolyfill": false,
+  "promisePolyfill": true,
   "styleOnly": false,
   "lessVars": []
 }
