@@ -19,6 +19,7 @@ ready(function () {
 ```
 
 ### <a name="installation"></a>Installation
+
 ```bash
 # using enyo-dev you can install this remote template
 enyo templates install https://github.com/bbito/onyx-webos-app.git
@@ -28,8 +29,10 @@ enyo init my-project -t onyx-webos-app
 enyo templates default onyx-webos-app
 ```
 ### <a name="usage"></a>Usage
+*IMPORTANT! The .git folder and README.md from this template repo will be copied into your project folder*
+*IMPORTANT! Delete the .git folder before proceeding and either delete or remember to modify the README.md file so it describes YOUR PROJECT instead of this template*
 
-For the most part this template works like the built-in app templates and you can find out more about enyo-dev and the template system at the [enyo-dev](https://github.com/enyojs/enyo-dev) repo.
+Otherwise, for the most part this template works like the built-in app templates and you can find out more about enyo-dev and the template system at the [enyo-dev](https://github.com/enyojs/enyo-dev) repo.
 
 * Edit the `appinfo.json` file to reflect your project
 * Run `enyo pack`
