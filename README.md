@@ -35,6 +35,8 @@ enyo templates default onyx-webos-app
 
 Otherwise, for the most part this template works like the built-in app templates and you can find out more about enyo-dev and the template system at the [enyo-dev](https://github.com/enyojs/enyo-dev) repo.
 
+* *Delete the `.git` folder at the root of your new project* (which is from this template)
+* Delete the `README.md` file at the root of your new project (which is from this template) or edit it to describe your project
 * Edit the `appinfo.json` file to reflect your project
 * Run `enyo pack`
 * Run `palm-package dist`
